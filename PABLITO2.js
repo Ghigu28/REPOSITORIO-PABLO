@@ -1,2 +1,4 @@
-let saludo = "hola"
-
+let saludito = function (){
+    return "Hola Chiche"
+}
+console.log(saludito())
